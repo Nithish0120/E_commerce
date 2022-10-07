@@ -1,0 +1,8 @@
+Steps to Git Commit:
+1.Use the Source Control from the VsCode tool.
+2.Clone the repository for the instance.
+3.Assign a message on the text field from the Source Control 
+4.Then select the files from changes to commit.
+5.Click on the + icon from the right of the changed files and Stage them.
+6.Once Staged CLick Commit and Sync.
+7.Files will be merged.
