@@ -6,3 +6,13 @@ Steps to Git Commit:
 5.Click on the + icon from the right of the changed files and Stage them.
 6.Once Staged CLick Commit and Sync.
 7.Files will be merged.
+
+
+Packages and softwares needed:
+1.NodeJS any version preferred
+2.Text editor(VS code / Atom)
+3.mongoDB:
+    mongod-https://www.mongodb.com/try/download/community
+    mongoShell-https://www.mongodb.com/try/download/shell
+4.Postman app.
+
