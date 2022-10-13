@@ -16,3 +16,7 @@ Packages and softwares needed:
     mongoShell-https://www.mongodb.com/try/download/shell
 4.Postman app.
 
+Packages:
+Run command 
+npm i express bcryptjs passport passport-jwt jsonwebtoken mongoose body-parser cors concurrently
+
